@@ -110,15 +110,6 @@ Element - 2
 Element - 3
 |1||2||3|
 ```
-
-## Contributing
-
-Feel free to open an issue or submit a pull request if you have suggestions or improvements!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries, please contact me via:
